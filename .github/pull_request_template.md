@@ -1,4 +1,6 @@
-ICU-
+ICU-<JIRA ID>
+
+-----------
 
 ## Overview
 
@@ -11,4 +13,3 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 - [ ] I have signed the [CLA](https://cla-assistant.io/unicode-org/icu)
 - [ ] ICU Complies without errors, and the Unit Tests pass locally with my changes.
 - [ ] I have added necessary documentation/comments (if appropriate).
-
